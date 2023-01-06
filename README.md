@@ -8,3 +8,8 @@ I've experienced in building distributed, scalable, relaible, and end-to-end sof
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=farukcankaya&show_icons=true&theme=radical" alt="farukcankaya" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcankaya&layout=compact&hide=html&theme=radical" alt="farukcankaya"/>
+
+  
+---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
