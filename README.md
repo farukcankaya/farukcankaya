@@ -13,3 +13,8 @@ I've experienced in building distributed, scalable, relaible, and end-to-end sof
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#60](https://github.com/fatih-yavuz/links.dev/pull/60) in [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev)
+2. ❗️ Closed issue [#1](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example/issues/1) in [farukcankaya/detectron2-multimodal-augmentation-example](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example)
+3. 🗣 Commented on [#1](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example/issues/1) in [farukcankaya/detectron2-multimodal-augmentation-example](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example)
+4. 🗣 Commented on [#1](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example/issues/1) in [farukcankaya/detectron2-multimodal-augmentation-example](https://github.com/farukcankaya/detectron2-multimodal-augmentation-example)
+<!--END_SECTION:activity-->
