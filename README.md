@@ -4,7 +4,7 @@ Hi, I'm <a href="https://www.linkedin.com/in/farukcankaya/">Faruk Cankaya</a>, a
   
 ---
 ### :octocat: Github Statistics
-<img  src="https://github-readme-stats.vercel.app/api?username=farukcankaya&show_icons=true&theme=radical" alt="farukcankaya" width="480" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcankaya&layout=compact&hide=html&theme=radical" alt="farukcankaya" width="480" height="180"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=farukcankaya&show_icons=true&theme=radical" alt="farukcankaya" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcankaya&layout=compact&hide=html&theme=radical" alt="farukcankaya" height="180"/>
 
 
 ### :zap: Recent Activity
